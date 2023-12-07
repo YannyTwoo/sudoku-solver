@@ -6,7 +6,7 @@ CNN is trained on MNIST dataset to detect digits.
 
 How to use
 ```    
-git clone https://github.com/aakashjhawar/SolveSudoku.git
+git clone https://github.com/YannyTwoo/sudoku-solver.git
 cd SolveSudoku
 python3 sudoku.py <path/to/input_image>
 ```
@@ -32,26 +32,26 @@ sudo apt-get install python-opencv
 ## Working 
 
 #### Input image of Sudoku-
-![Input image of sudoku](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/sudoku.jpg)
+![Input image of sudoku](https://github.com/YannyTwoo/sudoku-solver/blob/master/images/sudoku.jpg)
 
 #### Image of Sudoku after thresholding-
-![Threshold image of sudoku](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/threshold.jpg)
+![Threshold image of sudoku](https://github.com/YannyTwoo/sudoku-solver/blob/master/images/threshold.jpg)
 
 #### Contour corners of Sudoku-
-![Contour of sudoku](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/contour.jpg)
+![Contour of sudoku](https://github.com/YannyTwoo/sudoku-solver/blob/master/images/contour.jpg)
 
 #### Warp Image-
-![Warp of sudoku](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/warp.jpg)
+![Warp of sudoku](https://github.com/YannyTwoo/sudoku-solver/blob/master/images/warp.jpg)
 
 #### Final output of ExtractSudoku-
-![Final image of sudoku](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/final.jpg)
+![Final image of sudoku](https://github.com/YannyTwoo/sudoku-solver/blob/master/images/final.jpg)
 
 
 #### Extracted grid-
-![extracted grid](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/extracted_grid.png)
+![extracted grid](https://github.com/YannyTwoo/sudoku-solver/blob/master/images/extracted_grid.png)
 
 #### Solved grid-
-![Solved grid](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/solved_grid.png)
+![Solved grid](https://github.com/YannyTwoo/sudoku-solver/blob/master/images/solved_grid.png)
 
 
 
